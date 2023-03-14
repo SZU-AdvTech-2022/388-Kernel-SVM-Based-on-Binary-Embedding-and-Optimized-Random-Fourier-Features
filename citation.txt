@@ -1,0 +1,9 @@
+@inproceedings{REPO-389,
+    author = "Lei, Zijian and Lan, Liang",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "9",
+    pages = "8316--8323",
+    title = "{Memory and Computation-Efficient Kernel SVM via Binary Embedding and Ternary Model Coefficients}",
+    volume = "35",
+    year = "2021"
+}
